@@ -44,7 +44,7 @@ All animations were generated using lottie
 # Team
 
 
-**Designers & developpers:**
+**Designers & developers:**
 
 > * ASOGWA Chi-uba                               
 > * DAS Deblena            
