@@ -8,7 +8,7 @@ Study Pulse helps you to evaluate your daily routines, academic habits, and ment
 
 The app scores responses on a scale of 1–4, categorizing students into Excellent, Average, or Struggling tiers, and provides tailored recommendations to improve productivity, reduce stress, and foster healthier habits.
 
-What Study Pulse Does:
+What Study Pulse Does:    
 
 ✅ Quiz-Based Assessment – Users answer questions about study habits, screen time, and mental health .
 
